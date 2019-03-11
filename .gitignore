@@ -1,0 +1,12 @@
+.idea/
+.DS*
+utils/__pycache__/
+.ipy*
+dataset/
+utils/__pycache__/__init__.cpython-36.pyc
+utils/__pycache__/logger.cpython-36.pyc
+utils/__pycache__/__init__.cpython-36.pyc
+utils/__pycache__/logger.cpython-36.pyc
+logfile*
+utils/__pycache*
+embeddings/
